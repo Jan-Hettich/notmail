@@ -1,2 +1,2 @@
 # notmail
-A secure replacement for email based on block-chain related technologies.
+A secure replacement for email based on blockchain related technologies.
